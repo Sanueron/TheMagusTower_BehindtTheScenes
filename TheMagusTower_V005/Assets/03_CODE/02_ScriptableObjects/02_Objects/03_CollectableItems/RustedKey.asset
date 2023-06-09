@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed7adf5db70fe47e6b64aad9535dac0f, type: 3}
+  m_Name: RustedKey
+  m_EditorClassIdentifier: 
+  iD: 31
+  itemName: Rusted Key
+  description: A rusted key that may open a door somewhere
+  skill: None
+  misionItem: 1
+  type: 2
+  rarity: 0
+  state: 0
+  effect: 0
+  itemIcon: {fileID: 21300000, guid: 3cab11f9b253a4018a93e9bbd55337a1, type: 3}

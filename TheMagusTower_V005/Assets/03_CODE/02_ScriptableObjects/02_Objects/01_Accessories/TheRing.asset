@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed7adf5db70fe47e6b64aad9535dac0f, type: 3}
+  m_Name: TheRing
+  m_EditorClassIdentifier: 
+  iD: 3
+  itemName: The Ring
+  description: A ring made of gold and essence that protects its owner
+  skill: Heals HP over time
+  misionItem: 0
+  type: 0
+  rarity: 3
+  state: 0
+  effect: 1
+  itemIcon: {fileID: 21300000, guid: 380979f2d5ce54d36a398f71d8372fdf, type: 3}
